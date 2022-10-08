@@ -582,6 +582,13 @@
     "requirements": "HTML CSS JS and React/Nodejs",
     "contactEmail": "nithishr81@gmail.com"
   }
+    {
+    "id": "82",
+    "companyName": "Siemens Technology and Services Private Limited",
+    "position": "Test Automation Developer",
+    "requirements":"Knowledge of OOPs concepts, C# programming, and JavaScript",
+    "contactEmail":"crporate-secretariat.in@siemens.com"
+  }
 ] 
 
   }
